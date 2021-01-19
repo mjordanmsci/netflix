@@ -1,3 +1,9 @@
+#Netflix Clone
+
+Creating a neflix clone using Nodejs, React, React-Router, and Firebase
+
+Video tutorial by Karl Hadwen - https://www.youtube.com/watch?v=x_EEwGe-a9o&t=2891s&ab_channel=KarlHadwen 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
